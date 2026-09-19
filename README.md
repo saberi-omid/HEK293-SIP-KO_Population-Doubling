@@ -1,4 +1,4 @@
-opulation-Doubling
+Population-Doubling
 Population Doubling & Growth Rate Analysis (HEK293 SIP-KO, 2025)
 
 This repository contains R code and data used for analyzing the population 
